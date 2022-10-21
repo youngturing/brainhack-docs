@@ -1,0 +1,14 @@
+name: MD
+title: null
+theme: minima
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
+header_pages:
+  - brainhack_doc.md
+  - logistics.md
+  - mailing.md
+  - institutions.md
+  - accomodations.md
+  - projects.md
